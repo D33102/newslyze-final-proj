@@ -1,7 +1,0 @@
-subtopic,recent_avg_articles,forecast_avg_articles,change_%,trend,model
-AI Safety,0.5,2.0,305.8,Rising,SARIMA
-AI & Jobs,1.8,2.4,36.2,Rising,SARIMA
-AI Regulation,20.5,21.4,4.2,Stable,Prophet
-Generative AI,5.2,5.4,3.0,Stable,SARIMA
-AI in Healthcare,2.8,2.4,-13.3,Declining,Prophet
-AI & Big Tech,6.5,5.1,-21.7,Declining,Prophet
