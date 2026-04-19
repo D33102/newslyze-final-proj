@@ -1,0 +1,10 @@
+subtopic,recent_avg_articles,forecast_avg_articles,change_%,trend,model
+macroeconomy,8.2,19.6,137.5,Rising,Prophet
+climate_weather,18.2,29.3,60.3,Rising,SARIMA
+energy_markets,21.5,30.4,41.3,Rising,SARIMA
+elections_governance,12.0,16.6,38.2,Rising,SARIMA
+public_health,112.8,144.8,28.4,Rising,SARIMA
+supply_chain,0.8,0.9,17.5,Rising,SARIMA
+trade_industry,3.0,2.4,-20.6,Declining,SARIMA
+ai,109.2,72.0,-34.1,Declining,Prophet
+geopolitics_conflict,979.8,423.7,-56.8,Declining,Prophet
