@@ -184,14 +184,7 @@ Generated data files are stored in the `data/` directory:
 Project documentation and analysis reports are available in Typst format:
 - `report.typ` - Main project report
 - `report2.typ` - Additional analysis report
-
-## License
-
-[Add your license information here]
-
-## Contributing
-
-[Add contribution guidelines if applicable]
+  
 
 ## Acknowledgments
 
